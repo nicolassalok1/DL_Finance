@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+from tensorflow import keras
 from keras.models import Sequential
 from keras.layers import Dense, LSTM
 from master_function import data_preprocessing
