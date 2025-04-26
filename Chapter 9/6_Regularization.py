@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from tensorflow import keras
 from keras.models import Sequential
 from keras.layers import LSTM, Dense, Dropout, BatchNormalization
-from tensorflow.keras.callbacks import EarlyStopping
+from keras.callbacks import EarlyStopping
 import pandas_datareader as pdr
 from master_function import data_preprocessing, plot_train_test_values
 from master_function import calculate_directional_accuracy

@@ -8,6 +8,7 @@ import pandas_datareader as pdr
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 # Set the start and end dates for the data
 start_date = '1990-01-01'
 end_date   = '2023-06-01'

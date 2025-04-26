@@ -1,5 +1,5 @@
 import pandas as pd
-from tensorflow import keras as keras
+from tensorflow import keras
 import matplotlib.pyplot as plt
 import numpy as np
 from keras.models import Sequential
